@@ -50,6 +50,7 @@ $$
 Escriba dos expresiones (una para cada teorema) que representen las leyes de DeMorgan.
 
 La expresion1 DEBE ser una funcion, y DEBE asignarse a la variable `de_morgan1`.
+
 La expresion2 DEBE ser una funcion, y DEBE asignarse a la variable `de_morgan2`.
 
 
@@ -57,6 +58,7 @@ La expresion2 DEBE ser una funcion, y DEBE asignarse a la variable `de_morgan2`.
 
 
 Este nivel de uso de IA se llama: "AI discouraged".
+
 Defina una abstracción funcional llamada succ, tal que succ(z) computa z + 1.
 
     succ(-100) retorna (99)
@@ -70,36 +72,40 @@ Estas preguntas DEBEN responderse dentro del archivo `ex.cxx`
 ### Ejercicio 3
 
 Esta pregunta es "AI optional": es decir, pueden usar IA, aunque es algo ridículo en este caso.
+
 Recuerden que si usan IA DEBEN mostrar los datos requeridos en un archivoo llamado "metadata.txt", y no dentro del código.
 
 Programe el promedio y la varianza de una muestra, representada son un vector<double>
+
 Las funciones deben llamarse mean (promedio) y variance (varianza)
 
 
 ### Ejercicio 4
 
 Esta pregunta es "AI encouraged". Les pedimos que usen inteligencia artificial.
+
 Recuerden que DEBEN mostrar los datos requeridos en un archivoo llamado "metadata.txt", y no dentro del código.
 
 Sea S un conjunto de elementos que poseen dos propiedades: A y B.
 Representamos S con dos vectores, VA y VB (valores de A y B), donde cada elemento de S corresponde a elementos de VA y VB que tienen el mismo índice.
-a) Programen una función, llamada pearson_r, que computa el coeficiente de correlación de las variables A y B.
-b) Digan qué modelo de IA usaron. No manden los "prompts" (pueden ser largos) pero recomendamos que los guarden -pueden ayudar en caso de revisión.
+
+- Programen una función, llamada pearson_r, que computa el coeficiente de correlación de las variables A y B.
+- Digan qué modelo de IA usaron. No manden los "prompts" (pueden ser largos) pero recomendamos que los guarden -pueden ayudar en caso de revisión.
 
 
 
 ### Ejercicio 5
 
- Zoólogos y arqueólogos de la era espacial del siglo XXII han descubierto tres especies inteligentes,
+Zoólogos y arqueólogos de la era espacial del siglo XXII han descubierto tres especies inteligentes,
 todas descendientes, de acuerdo a su fenotipo y genotipo, de una especie similar al Octopus Vulgaris de nuestro planeta.
 Son muy inteligentes, han desarrollado conocimientos de geometría y matemática, desde Euclides a Leibniz y posiblemente Gauss.
 Cada especie usa símbolos distintos para representar números, pero tienen varias similaridades, lo que sugiere intercambio cultural.
 De hecho, las tres especies han desarrollado una economía común, empleando almejas como divisas.
 Cada especie tiene su propio sistema de numeración posicional, basado en su número de tentáculos:
 
-Septapus Mirabilis tiene siete tentáculos
-Octopus Sapiens tiene ocho tentáculos
-Hexakaidecapus Turingia tiene dieciséis tentáculos
+- Septapus Mirabilis tiene siete tentáculos
+- Octopus Sapiens tiene ocho tentáculos
+- Hexakaidecapus Turingia tiene dieciséis tentáculos
 
 Los arqueólogos han logrado, sin mucha dificultad, identificar el significado de cada símbolo/dígito.
 Podemos usar los dígitos a los que estamos acostumbrados: tienen correspondencia 1-1 con los símbolos de los pulpos inteligentes.
