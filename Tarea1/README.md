@@ -39,13 +39,13 @@ La negación de «P o Q» es lo mismo que «no P y no Q»
 
 Es decir, usando
 
-\[
-\not (P \wedge Q) \equiv \not P \vee \not Q
-\]
+$$
+\neg (P \wedge Q) \equiv \neg P \vee \neg Q
+$$
 
-\[
-\not (P \vee Q) \equiv \not P \wedge \not Q
-\]
+$$
+\neg (P \vee Q) \equiv \neg P \wedge \neg Q
+$$
 
 Escriba dos expresiones (una para cada teorema) que representen las leyes de DeMorgan.
 
